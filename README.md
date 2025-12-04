@@ -4,8 +4,9 @@ A complete integration between your MTA:SA server and Discord community.
 
 This system links Discord accounts with MTA serials, manages whitelists automatically, and provides rich logging and staff tools – all directly from Discord.
 
----
-
+<img width="735" height="495" alt="image" src="https://github.com/user-attachments/assets/56dfa575-ed14-4c0d-bcb4-4ffdd2a59694" />
+-
+--
 ## Features
 
 - **Two-way command bridge**  
@@ -40,6 +41,7 @@ This system links Discord accounts with MTA serials, manages whitelists automati
 
 - **All channels accessible for commands**  
   Commands can be used from any channel (or restricted via permissions, if configured).
+<img width="704" height="789" alt="image3" src="https://github.com/user-attachments/assets/c56e1cb7-322e-4c3d-ae6b-e5335ea6ec31" />
 
 ---
 
@@ -63,6 +65,7 @@ This system links Discord accounts with MTA serials, manages whitelists automati
 
 - `!selfwhitelist` / `!sw <MTA SERIAL>`  
   Allows a player to whitelist themselves if they meet your conditions (for example, being in a certain Discord role or channel).
+<img width="1048" height="1151" alt="image2" src="https://github.com/user-attachments/assets/4286bd3d-7b78-4ab2-8860-02a3dded0cc3" />
 
 ---
 
