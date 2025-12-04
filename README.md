@@ -1,5 +1,7 @@
 # MTA-SA × Discord Whitelist Integration
 
+script credit for connecting discord to mta:SA using sockets module: https://github.com/botder
+
 **Join our Discord server to Buy this script** - https://discord.gg/C6yGdAEWEa 
 
 **Buy From Gumroad** - https://saimusick.gumroad.com/l/stnyc
